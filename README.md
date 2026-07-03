@@ -214,6 +214,7 @@ promtool check config /etc/prometheus/prometheus.yml
 Alertmanager:
 
 amtool check-config /etc/alertmanager/alertmanager.yml
+
 🎯 DevOps Concepts Implemented
 Reverse Proxy
 1.Process Management
